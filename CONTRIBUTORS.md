@@ -66,4 +66,4 @@ Raja Rathnam Naidu Kanapaka - National Payments Corporation of India - raja.naid
 
 Jovin Johny - National Payments Corporation of India - jovin.johny@npci.org.in
 
-Arun Singaravel - National Payments Corporation of India - arun.singaravel@npci.org.in
+ArunSingaravel - National Payments Corporation of India - arun.singaravel@npci.org.in
